@@ -9,7 +9,6 @@ json = {
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "Daniel+Koberstein%7C910+NE+Providence+Ct.+H301%7C%7CPullman%7CWA%7C99163%7CUSA%7Cdankoberstein%40gmail.com%7C2532251818",
     "id": 12
 }
 
