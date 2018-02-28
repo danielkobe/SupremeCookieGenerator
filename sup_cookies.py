@@ -1,16 +1,3 @@
-json = {
-    "domain": "www.supremenewyork.com",
-    "expirationDate": 1529257680,
-    "hostOnly": True,
-    "httpOnly": False,
-    "name": "address",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": False,
-    "session": False,
-    "storeId": "0",
-    "id": 12
-}
 
 print("========= Shipping Info =========")
 name = input("Name: ")
