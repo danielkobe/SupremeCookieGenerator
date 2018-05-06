@@ -17,4 +17,4 @@ print(value)
 f.write(value)
 
 print("Cookie generated! First go to http://www.supremenewyork.com/ then to the Chrome Developer Tools->Console, then past the cookie into the console and press enter.")
-fh.close()
+f.close()

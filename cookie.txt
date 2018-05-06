@@ -1,0 +1,1 @@
+document.cookie="address=Daniel+Koberstein%7C8815+71st+Ave.+NW%7C%7CGig+Harbor%7CWA%7C98332%7CUSA%7Cdankoberstein%40gmail.com%7C2532251818"
